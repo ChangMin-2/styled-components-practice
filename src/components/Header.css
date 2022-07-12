@@ -1,0 +1,24 @@
+.header .inner {
+  text-align: center;
+  padding: 50px 0;
+}
+.header p {
+  margin-bottom: 10px;
+}
+.header .title {
+  font-size: 34px;
+}
+.header .desc {
+  display: inline-block;
+  padding: 5px 30px;
+  border-radius: 15px;
+  font-size: 13px;
+  background-color: rgb(106, 242, 138);
+  color: #fff;
+  margin-top: 10px;
+}
+.header .desc .strong {
+  color: red;
+  font-weight: 700;
+  margin-left: 10px;
+}
